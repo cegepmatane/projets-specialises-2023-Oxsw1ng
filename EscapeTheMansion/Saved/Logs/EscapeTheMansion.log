@@ -1187,3 +1187,4 @@ LogConfig: Set CVar [[con.DebugEarlyDefault:1]]
 [2023.02.10-20.27.46:387][  0]LogSlate: Took 0.000584 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
 [2023.02.10-20.27.47:110][  2]LogSlate: Took 0.000313 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
 [2023.02.10-20.27.48:770][ 20]LogShaderCompilers: Display: FShaderCompileThreadRunnable::WriteNewTasks()() took too long (0.319 seconds, threshold is 0.300 s), will parallelize next time.
+[2023.02.10-20.29.47:709][ 50]LogDerivedDataCache: C:/Users/mijat/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:16.607 and deleted 0 files with total size 0 MiB. Scanned 8565 files in 8396 folders with total size 334 MiB.
