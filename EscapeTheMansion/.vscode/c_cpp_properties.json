@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "EscapeTheMansionEditor Editor Win64 Development (EscapeTheMansion)",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\mijat\\Documents\\projets-specialises-2023-Oxsw1ng\\EscapeTheMansion\\.vscode\\compileCommands_EscapeTheMansion.json"
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.34.31933\\bin\\HostX64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "C:\\Users\\mijat\\Documents\\projets-specialises-2023-Oxsw1ng\\EscapeTheMansion\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}

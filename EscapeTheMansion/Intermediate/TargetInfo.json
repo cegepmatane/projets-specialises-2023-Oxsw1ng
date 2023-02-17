@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "EscapeTheMansion",
+			"Path": "C:\\Users\\mijat\\Documents\\projets-specialises-2023-Oxsw1ng\\EscapeTheMansion\\Source\\EscapeTheMansion.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "EscapeTheMansionEditor",
+			"Path": "C:\\Users\\mijat\\Documents\\projets-specialises-2023-Oxsw1ng\\EscapeTheMansion\\Source\\EscapeTheMansionEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
