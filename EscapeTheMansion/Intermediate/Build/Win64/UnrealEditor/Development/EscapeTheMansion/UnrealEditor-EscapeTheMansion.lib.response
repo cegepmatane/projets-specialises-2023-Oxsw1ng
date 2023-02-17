@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-EscapeTheMansion.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\mijat\Documents\projets-specialises-2023-Oxsw1ng\EscapeTheMansion\Intermediate\Build\Win64\EscapeTheMansionEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_0.h.obj"
+"C:\Users\mijat\Documents\projets-specialises-2023-Oxsw1ng\EscapeTheMansion\Intermediate\Build\Win64\UnrealEditor\Development\EscapeTheMansion\EscapeTheMansion.cpp.obj"
+"C:\Users\mijat\Documents\projets-specialises-2023-Oxsw1ng\EscapeTheMansion\Intermediate\Build\Win64\UnrealEditor\Development\EscapeTheMansion\OpeningC.cpp.obj"
+"C:\Users\mijat\Documents\projets-specialises-2023-Oxsw1ng\EscapeTheMansion\Intermediate\Build\Win64\UnrealEditor\Development\EscapeTheMansion\Default.rc2.res"
+/OUT:"C:\Users\mijat\Documents\projets-specialises-2023-Oxsw1ng\EscapeTheMansion\Intermediate\Build\Win64\UnrealEditor\Development\EscapeTheMansion\UnrealEditor-EscapeTheMansion.lib"
