@@ -2381,3 +2381,358 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.31-17.04.19:688][150]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/SecondRoom' took 1.944
 [2023.03.31-17.04.19:688][150]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.944
 [2023.03.31-17.04.19:730][151]LogAutomationController: Ignoring very large delta of 2.61 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.03.31-17.09.05:416][504]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-17.09.05:419][504]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-17.09.06:400][528]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.03.31-17.09.06:400][528]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-17.09.06:400][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-17.09.09:892][710]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.31-17.09.10:064][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.03.31-17.09.10:091][710]LogSavePackage: Moving output files for package: /Game/Maps/SecondRoom
+[2023.03.31-17.09.10:091][710]LogSavePackage: Moving '../../../../../../Users/mijat/Documents/projets-specialises-2023-Oxsw1ng/EscapeTheMansion/Saved/SecondRoom9513C9784E49A31D8C2CDC8CB4A7B2ED.tmp' to '../../../../../../Users/mijat/Documents/projets-specialises-2023-Oxsw1ng/EscapeTheMansion/Content/Maps/SecondRoom.umap'
+[2023.03.31-17.09.10:120][710]LogFileHelpers: Saving map 'SecondRoom' took 0.156
+[2023.03.31-17.09.10:133][710]LogFileHelpers: InternalPromptForCheckoutAndSave took 241 ms (total: 731 ms)
+[2023.03.31-17.09.10:318][710]AssetCheck: New page: Asset Save: SecondRoom
+[2023.03.31-17.09.10:318][710]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SecondRoom.SecondRoom
+[2023.03.31-17.09.12:498][830]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/SecondRoom.SecondRoom:PersistentLevel.SecondRoom
+[2023.03.31-17.09.12:522][830]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.31-17.10.50:903][783]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.31-17.10.50:904][783]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.31-17.10.50:904][783]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.31-17.11.11:333][935]LogMetaData: Removing '/Game/Food_Asset_Pack/Actors/BP_Apple.BP_Apple:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Food_Asset_Pack/FBX/BP_Apple.PackageMetaData'
+[2023.03.31-17.11.11:333][935]LogMetaData: Removing '/Game/Food_Asset_Pack/Actors/BP_Apple.BP_Apple_C' ref from Metadata '/Game/Food_Asset_Pack/FBX/BP_Apple.PackageMetaData'
+[2023.03.31-17.11.11:333][935]LogMetaData: Removing '/Game/Food_Asset_Pack/Actors/BP_Apple.SKEL_BP_Apple_C:UserConstructionScript' ref from Metadata '/Game/Food_Asset_Pack/FBX/BP_Apple.PackageMetaData'
+[2023.03.31-17.11.11:333][935]LogMetaData: Removing '/Game/Food_Asset_Pack/Actors/BP_Apple.SKEL_BP_Apple_C' ref from Metadata '/Game/Food_Asset_Pack/FBX/BP_Apple.PackageMetaData'
+[2023.03.31-17.11.11:369][935]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.31-17.11.11:469][935]LogSavePackage: Moving output files for package: /Game/Food_Asset_Pack/Actors/BP_Apple
+[2023.03.31-17.11.11:469][935]LogSavePackage: Moving '../../../../../../Users/mijat/Documents/projets-specialises-2023-Oxsw1ng/EscapeTheMansion/Saved/BP_Apple698841E548BF74BA1ACEA08D0347BBF7.tmp' to '../../../../../../Users/mijat/Documents/projets-specialises-2023-Oxsw1ng/EscapeTheMansion/Content/Food_Asset_Pack/Actors/BP_Apple.uasset'
+[2023.03.31-17.11.11:478][935]LogSavePackage: Moving output files for package: /Game/Food_Asset_Pack/FBX/BP_Apple
+[2023.03.31-17.11.11:479][935]LogSavePackage: Moving '../../../../../../Users/mijat/Documents/projets-specialises-2023-Oxsw1ng/EscapeTheMansion/Saved/BP_Apple6D204162438AE623C2827EA9B08D5E66.tmp' to '../../../../../../Users/mijat/Documents/projets-specialises-2023-Oxsw1ng/EscapeTheMansion/Content/Food_Asset_Pack/FBX/BP_Apple.uasset'
+[2023.03.31-17.11.11:489][935]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 851 ms)
+[2023.03.31-17.11.11:521][935]AssetCheck: New page: Asset Save: multiple assets
+[2023.03.31-17.11.11:521][935]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Food_Asset_Pack/Actors/BP_Apple.BP_Apple
+[2023.03.31-17.11.11:523][935]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Food_Asset_Pack/FBX/BP_Apple.BP_Apple
+[2023.03.31-17.11.11:523][935]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Food_Asset_Pack/FBX/BP_Apple.Default__BP_Apple_C
+[2023.03.31-17.11.11:523][935]LogContentValidation: Display: Validating /Script/CoreUObject.ObjectRedirector /Game/Food_Asset_Pack/FBX/BP_Apple.BP_Apple_C
+[2023.03.31-17.11.18:006][298]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Food_Asset_Pack/FBX/Burger.Burger
+[2023.03.31-17.11.18:006][298]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Food_Asset_Pack/FBX/Burger.Burger
+[2023.03.31-17.11.18:013][298]LogActorFactory: Actor Factory spawned StaticMesh /Game/Food_Asset_Pack/FBX/Burger.Burger as actor: StaticMeshActor /Game/Maps/SecondRoom.SecondRoom:PersistentLevel.StaticMeshActor_0
+[2023.03.31-17.11.18:525][321]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Food_Asset_Pack/FBX/Burger.Burger
+[2023.03.31-17.11.18:525][321]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Food_Asset_Pack/FBX/Burger.Burger
+[2023.03.31-17.11.18:528][321]LogActorFactory: Actor Factory spawned StaticMesh /Game/Food_Asset_Pack/FBX/Burger.Burger as actor: StaticMeshActor /Game/Maps/SecondRoom.SecondRoom:PersistentLevel.StaticMeshActor_2
+[2023.03.31-17.11.29:068][824]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.31-17.11.29:068][824]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.31-17.11.29:068][824]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.31-17.11.51:525][824]LogSlate: Window 'Create Blueprint From Selection' being destroyed
+[2023.03.31-17.11.51:591][824]LogActorComponent: UnregisterComponent: (/Game/Food_Asset_Pack/Texture/BP_Burger.Default__BP_Burger_C:StaticMeshComponent0) Not registered. Aborting.
+[2023.03.31-17.11.51:842][824]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.03.31-17.11.51:870][824]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Food_Asset_Pack/Texture/BP_Burger.BP_Burger
+[2023.03.31-17.11.51:871][824]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.31-17.11.52:651][824]LogViewport: Scene viewport resized to 1103x577, mode Windowed.
+[2023.03.31-17.11.52:706][825]LogAutomationController: Ignoring very large delta of 23.75 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.03.31-17.11.55:403][940]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.31-17.11.55:503][940]LogSavePackage: Moving output files for package: /Game/Food_Asset_Pack/Texture/BP_Burger
+[2023.03.31-17.11.55:503][940]LogSavePackage: Moving '../../../../../../Users/mijat/Documents/projets-specialises-2023-Oxsw1ng/EscapeTheMansion/Saved/BP_Burger49851D514F1B7CD4E14C9092638A56E9.tmp' to '../../../../../../Users/mijat/Documents/projets-specialises-2023-Oxsw1ng/EscapeTheMansion/Content/Food_Asset_Pack/Texture/BP_Burger.uasset'
+[2023.03.31-17.11.55:519][940]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 967 ms)
+[2023.03.31-17.11.55:533][940]AssetCheck: New page: Asset Save: BP_Burger
+[2023.03.31-17.11.55:533][940]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Food_Asset_Pack/Texture/BP_Burger.BP_Burger
+[2023.03.31-17.11.56:571][988]LogSlate: Window 'BP_Burger' being destroyed
+[2023.03.31-17.11.56:579][988]LogSlate: Window 'BP_Burger' being destroyed
+[2023.03.31-17.11.56:601][988]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-17.11.56:604][988]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-17.12.12:133][835]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Food_Asset_Pack/Texture/BP_Burger.BP_Burger
+[2023.03.31-17.12.12:135][835]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.31-17.12.21:862][376]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.31-17.12.21:936][376]LogSavePackage: Moving output files for package: /Game/Food_Asset_Pack/Texture/BP_Burger
+[2023.03.31-17.12.21:936][376]LogSavePackage: Moving '../../../../../../Users/mijat/Documents/projets-specialises-2023-Oxsw1ng/EscapeTheMansion/Saved/BP_BurgerDFB45FFE400B5319CB10ECA2DE7FA1DE.tmp' to '../../../../../../Users/mijat/Documents/projets-specialises-2023-Oxsw1ng/EscapeTheMansion/Content/Food_Asset_Pack/Texture/BP_Burger.uasset'
+[2023.03.31-17.12.21:945][376]LogFileHelpers: InternalPromptForCheckoutAndSave took 83 ms (total: 1.05 sec)
+[2023.03.31-17.12.21:957][376]AssetCheck: New page: Asset Save: BP_Burger
+[2023.03.31-17.12.21:957][376]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Food_Asset_Pack/Texture/BP_Burger.BP_Burger
+[2023.03.31-17.12.22:478][407]BlueprintLog: New page: Compile BP_Burger
+[2023.03.31-17.12.22:642][407]LogUObjectHash: Compacting FUObjectHashTables data took   2.43ms
+[2023.03.31-17.12.26:020][598]LogSlate: Window 'BP_Burger' being destroyed
+[2023.03.31-17.12.26:029][598]LogSlate: Window 'BP_Burger' being destroyed
+[2023.03.31-17.12.26:039][598]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-17.12.26:039][598]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-17.12.41:158][404]LogMetaData: Removing '/Game/Food_Asset_Pack/Actors/BP_Burger.BP_Burger:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Food_Asset_Pack/Texture/BP_Burger.PackageMetaData'
+[2023.03.31-17.12.41:158][404]LogMetaData: Removing '/Game/Food_Asset_Pack/Actors/BP_Burger.SKEL_BP_Burger_C:ReceiveBeginPlay' ref from Metadata '/Game/Food_Asset_Pack/Texture/BP_Burger.PackageMetaData'
+[2023.03.31-17.12.41:158][404]LogMetaData: Removing '/Game/Food_Asset_Pack/Actors/BP_Burger.SKEL_BP_Burger_C' ref from Metadata '/Game/Food_Asset_Pack/Texture/BP_Burger.PackageMetaData'
+[2023.03.31-17.12.41:158][404]LogMetaData: Removing '/Game/Food_Asset_Pack/Actors/BP_Burger.BP_Burger_C' ref from Metadata '/Game/Food_Asset_Pack/Texture/BP_Burger.PackageMetaData'
+[2023.03.31-17.12.41:158][404]LogMetaData: Removing '/Game/Food_Asset_Pack/Actors/BP_Burger.BP_Burger:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Food_Asset_Pack/Texture/BP_Burger.PackageMetaData'
+[2023.03.31-17.12.41:158][404]LogMetaData: Removing '/Game/Food_Asset_Pack/Actors/BP_Burger.BP_Burger:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Food_Asset_Pack/Texture/BP_Burger.PackageMetaData'
+[2023.03.31-17.12.41:158][404]LogMetaData: Removing '/Game/Food_Asset_Pack/Actors/BP_Burger.BP_Burger:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Food_Asset_Pack/Texture/BP_Burger.PackageMetaData'
+[2023.03.31-17.12.41:158][404]LogMetaData: Removing '/Game/Food_Asset_Pack/Actors/BP_Burger.SKEL_BP_Burger_C:ReceiveActorBeginOverlap' ref from Metadata '/Game/Food_Asset_Pack/Texture/BP_Burger.PackageMetaData'
+[2023.03.31-17.12.41:158][404]LogMetaData: Removing '/Game/Food_Asset_Pack/Actors/BP_Burger.SKEL_BP_Burger_C:ReceiveTick' ref from Metadata '/Game/Food_Asset_Pack/Texture/BP_Burger.PackageMetaData'
+[2023.03.31-17.12.41:158][404]LogMetaData: Removing '/Game/Food_Asset_Pack/Actors/BP_Burger.SKEL_BP_Burger_C:UserConstructionScript' ref from Metadata '/Game/Food_Asset_Pack/Texture/BP_Burger.PackageMetaData'
+[2023.03.31-17.12.41:161][404]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.31-17.12.41:245][404]LogSavePackage: Moving output files for package: /Game/Food_Asset_Pack/Actors/BP_Burger
+[2023.03.31-17.12.41:245][404]LogSavePackage: Moving '../../../../../../Users/mijat/Documents/projets-specialises-2023-Oxsw1ng/EscapeTheMansion/Saved/BP_Burger4650ADBD42C336C1B9583DACA3789C26.tmp' to '../../../../../../Users/mijat/Documents/projets-specialises-2023-Oxsw1ng/EscapeTheMansion/Content/Food_Asset_Pack/Actors/BP_Burger.uasset'
+[2023.03.31-17.12.41:254][404]LogFileHelpers: InternalPromptForCheckoutAndSave took 92 ms (total: 1.14 sec)
+[2023.03.31-17.12.41:330][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.99ms
+[2023.03.31-17.12.41:390][404]LogUObjectHash: Compacting FUObjectHashTables data took   2.21ms
+[2023.03.31-17.12.41:435][404]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.03.31-17.12.41:457][404]AssetCheck: New page: Asset Save: BP_Burger
+[2023.03.31-17.12.41:457][404]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Food_Asset_Pack/Actors/BP_Burger.BP_Burger
+[2023.03.31-17.12.43:743][534]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Food_Asset_Pack/Actors/BP_Apple.BP_Apple
+[2023.03.31-17.12.43:743][534]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.31-17.12.48:754][779]LogSlate: Window 'BP_Apple' being destroyed
+[2023.03.31-17.12.54:836][142]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-17.12.54:836][142]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-17.12.54:870][142]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Food_Asset_Pack/Actors/BP_Apple.BP_Apple
+[2023.03.31-17.12.54:870][142]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.31-17.13.00:464][451]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-17.13.00:464][451]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-17.13.01:925][536]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.31-17.13.02:037][536]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.03.31-17.13.02:061][536]LogSavePackage: Moving output files for package: /Game/Maps/SecondRoom
+[2023.03.31-17.13.02:063][536]LogSavePackage: Moving '../../../../../../Users/mijat/Documents/projets-specialises-2023-Oxsw1ng/EscapeTheMansion/Saved/SecondRoomE2026E93488D2C5ECCA9DCB600902D2D.tmp' to '../../../../../../Users/mijat/Documents/projets-specialises-2023-Oxsw1ng/EscapeTheMansion/Content/Maps/SecondRoom.umap'
+[2023.03.31-17.13.02:085][536]LogFileHelpers: Saving map 'SecondRoom' took 0.103
+[2023.03.31-17.13.02:095][536]LogFileHelpers: InternalPromptForCheckoutAndSave took 170 ms (total: 1.31 sec)
+[2023.03.31-17.13.02:104][536]AssetCheck: New page: Asset Save: SecondRoom
+[2023.03.31-17.13.02:104][536]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SecondRoom.SecondRoom
+[2023.03.31-17.13.03:058][592]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.31-17.13.03:058][592]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.31-17.13.03:058][592]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.03.31-17.13.12:382][132]BlueprintLog: New page: Compile SecondRoom
+[2023.03.31-17.13.12:401][132]LogBlueprint: Error: [AssetLog] C:\Users\mijat\Documents\projets-specialises-2023-Oxsw1ng\EscapeTheMansion\Content\Maps\SecondRoom.umap: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2023.03.31-17.13.12:401][132]LogBlueprint: Error: [AssetLog] C:\Users\mijat\Documents\projets-specialises-2023-Oxsw1ng\EscapeTheMansion\Content\Maps\SecondRoom.umap: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2023.03.31-17.13.12:481][132]LogUObjectHash: Compacting FUObjectHashTables data took   1.89ms
+[2023.03.31-17.14.45:884][602]BlueprintLog: New page: Compile SecondRoom
+[2023.03.31-17.14.45:890][602]LogBlueprint: Error: [AssetLog] C:\Users\mijat\Documents\projets-specialises-2023-Oxsw1ng\EscapeTheMansion\Content\Maps\SecondRoom.umap: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2023.03.31-17.14.45:890][602]LogBlueprint: Error: [AssetLog] C:\Users\mijat\Documents\projets-specialises-2023-Oxsw1ng\EscapeTheMansion\Content\Maps\SecondRoom.umap: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2023.03.31-17.14.45:956][602]LogUObjectHash: Compacting FUObjectHashTables data took   2.07ms
+[2023.03.31-17.15.21:865][628]LogSlate: Took 0.001550 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.03.31-17.15.24:984][729]LogSlate: Window 'Change Variable Type' being destroyed
+[2023.03.31-17.15.28:204][903]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.03.31-17.15.28:214][903]LogSlate: Window 'Find in Blueprints' being destroyed
+[2023.03.31-17.15.36:095][363]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.31-17.15.36:198][363]LogUObjectHash: Compacting FUObjectHashTables data took   3.21ms
+[2023.03.31-17.15.36:223][363]LogSavePackage: Moving output files for package: /Game/Maps/SecondRoom
+[2023.03.31-17.15.36:223][363]LogSavePackage: Moving '../../../../../../Users/mijat/Documents/projets-specialises-2023-Oxsw1ng/EscapeTheMansion/Saved/SecondRoom6876D68A4084029DEF2BBA8C85E7960D.tmp' to '../../../../../../Users/mijat/Documents/projets-specialises-2023-Oxsw1ng/EscapeTheMansion/Content/Maps/SecondRoom.umap'
+[2023.03.31-17.15.36:243][363]LogFileHelpers: Saving map 'SecondRoom' took 0.096
+[2023.03.31-17.15.36:251][363]LogFileHelpers: InternalPromptForCheckoutAndSave took 157 ms (total: 1.47 sec)
+[2023.03.31-17.15.36:259][363]AssetCheck: New page: Asset Save: SecondRoom
+[2023.03.31-17.15.36:259][363]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SecondRoom.SecondRoom
+[2023.03.31-17.15.39:538][550]BlueprintLog: New page: Compile SecondRoom
+[2023.03.31-17.15.39:547][550]LogClass: Error: Failed loading tagged StructProperty /Game/Maps/SecondRoom.SecondRoom_C:FusionSpawnPosition. Read 12B, expected 24B.
+[2023.03.31-17.15.39:610][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.49ms
+[2023.03.31-17.16.29:432][491]BlueprintLog: New page: Compile SecondRoom
+[2023.03.31-17.16.29:498][491]LogUObjectHash: Compacting FUObjectHashTables data took   4.02ms
+[2023.03.31-17.17.24:471][772]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.31-17.17.24:586][772]LogUObjectHash: Compacting FUObjectHashTables data took   3.03ms
+[2023.03.31-17.17.24:608][772]LogSavePackage: Moving output files for package: /Game/Maps/SecondRoom
+[2023.03.31-17.17.24:609][772]LogSavePackage: Moving '../../../../../../Users/mijat/Documents/projets-specialises-2023-Oxsw1ng/EscapeTheMansion/Saved/SecondRoom6EDAFC464EBD5F7A9A9E97B441EE623C.tmp' to '../../../../../../Users/mijat/Documents/projets-specialises-2023-Oxsw1ng/EscapeTheMansion/Content/Maps/SecondRoom.umap'
+[2023.03.31-17.17.24:628][772]LogFileHelpers: Saving map 'SecondRoom' took 0.092
+[2023.03.31-17.17.24:638][772]LogFileHelpers: InternalPromptForCheckoutAndSave took 167 ms (total: 1.63 sec)
+[2023.03.31-17.17.24:647][772]AssetCheck: New page: Asset Save: SecondRoom
+[2023.03.31-17.17.24:647][772]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SecondRoom.SecondRoom
+[2023.03.31-17.17.26:277][869]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.31-17.17.26:308][869]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.31-17.17.26:314][869]PIE: New page: PIE session: SecondRoom (31 mars 2023 à 21:17:26)
+[2023.03.31-17.17.26:317][869]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SecondRoom
+[2023.03.31-17.17.26:333][869]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016526s)
+[2023.03.31-17.17.26:333][869]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SecondRoom.SecondRoom to /Game/Maps/UEDPIE_0_SecondRoom.SecondRoom (0.016834s)
+[2023.03.31-17.17.26:338][869]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.31-17.17.26:341][869]LogAIModule: Creating AISystem for world SecondRoom
+[2023.03.31-17.17.26:346][869]LogPlayLevel: PIE: World Init took: (0.011895s)
+[2023.03.31-17.17.26:388][869]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.03.31-17.17.26:396][869]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.03.31-17.17.26:399][869]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.31-17.17.26:400][869]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.31-17.17.26:400][869]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.31-17.17.26:400][869]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.31-17.17.26:400][869]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.31-17.17.26:401][869]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.31-17.17.26:401][869]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.31-17.17.26:401][869]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.31-17.17.26:404][869]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.31-17.17.26:404][869]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.31-17.17.26:404][869]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.31-17.17.26:411][869]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.31-17.17.26:462][869]LogAudioMixer: Display: Using Audio Hardware Device Casque (WH-CH710N)
+[2023.03.31-17.17.26:467][869]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.31-17.17.26:467][869]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.31-17.17.26:468][869]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.31-17.17.26:471][869]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.03.31-17.17.26:471][869]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.03.31-17.17.26:473][869]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.03.31-17.17.26:474][869]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.03.31-17.17.26:474][869]LogInit: FAudioDevice initialized.
+[2023.03.31-17.17.26:474][869]LogAudio: Display: Audio Device (ID: 18) registered with world 'SecondRoom'.
+[2023.03.31-17.17.26:496][869]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.31-17.17.26:537][869]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SecondRoom.SecondRoom up for play (max tick rate 60) at 2023.03.31-19.17.26
+[2023.03.31-17.17.26:538][869]LogWorld: Bringing up level for play took: 0.040735
+[2023.03.31-17.17.26:550][869]LogOnline: OSS: Created online subsystem instance for: :Context_48
+[2023.03.31-17.17.26:594][869]PIE: Server logged in
+[2023.03.31-17.17.26:595][869]PIE: Play in editor total start time 0,302 seconds.
+[2023.03.31-17.17.31:117][ 90]LogBlueprintUserMessages: [SecondRoom_C_3] Le premier est bon
+[2023.03.31-17.17.35:503][331]LogBlueprintUserMessages: [SecondRoom_C_3] Poc valide
+[2023.03.31-17.17.42:478][716]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.03.31-17.17.42:478][716]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.03.31-17.17.42:478][716]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.03.31-17.17.43:338][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-17.17.43:341][762]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SecondRoom
+[2023.03.31-17.17.43:342][762]LogWorld: UWorld::CleanupWorld for SecondRoom, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-17.17.43:344][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-17.17.43:367][762]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.31-17.17.43:380][762]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-17.17.43:425][762]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-17.17.43:427][762]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.03.31-17.17.43:430][762]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.03.31-17.17.43:465][762]LogUObjectHash: Compacting FUObjectHashTables data took   2.52ms
+[2023.03.31-17.17.43:560][763]LogPlayLevel: Display: Destroying online subsystem :Context_48
+[2023.03.31-17.17.53:721][365]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.31-17.17.53:830][365]LogUObjectHash: Compacting FUObjectHashTables data took   2.86ms
+[2023.03.31-17.17.53:853][365]LogSavePackage: Moving output files for package: /Game/Maps/SecondRoom
+[2023.03.31-17.17.53:853][365]LogSavePackage: Moving '../../../../../../Users/mijat/Documents/projets-specialises-2023-Oxsw1ng/EscapeTheMansion/Saved/SecondRoomD5C901934FC5406F54F491A1266E6602.tmp' to '../../../../../../Users/mijat/Documents/projets-specialises-2023-Oxsw1ng/EscapeTheMansion/Content/Maps/SecondRoom.umap'
+[2023.03.31-17.17.53:873][365]LogFileHelpers: Saving map 'SecondRoom' took 0.094
+[2023.03.31-17.17.53:881][365]LogFileHelpers: InternalPromptForCheckoutAndSave took 159 ms (total: 1.79 sec)
+[2023.03.31-17.17.53:890][365]AssetCheck: New page: Asset Save: SecondRoom
+[2023.03.31-17.17.53:890][365]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SecondRoom.SecondRoom
+[2023.03.31-17.17.54:403][395]BlueprintLog: New page: Compile SecondRoom
+[2023.03.31-17.17.54:470][395]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.03.31-17.17.56:053][481]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.31-17.17.56:065][481]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.31-17.17.56:065][481]PIE: New page: PIE session: SecondRoom (31 mars 2023 à 21:17:56)
+[2023.03.31-17.17.56:065][481]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SecondRoom
+[2023.03.31-17.17.56:070][481]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004533s)
+[2023.03.31-17.17.56:070][481]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SecondRoom.SecondRoom to /Game/Maps/UEDPIE_0_SecondRoom.SecondRoom (0.004581s)
+[2023.03.31-17.17.56:070][481]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.31-17.17.56:071][481]LogAIModule: Creating AISystem for world SecondRoom
+[2023.03.31-17.17.56:071][481]LogPlayLevel: PIE: World Init took: (0.001022s)
+[2023.03.31-17.17.56:114][481]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.03.31-17.17.56:116][481]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.03.31-17.17.56:116][481]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.31-17.17.56:116][481]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.31-17.17.56:116][481]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.31-17.17.56:116][481]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.31-17.17.56:116][481]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.31-17.17.56:116][481]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.31-17.17.56:117][481]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.31-17.17.56:117][481]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.31-17.17.56:117][481]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.31-17.17.56:117][481]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.31-17.17.56:117][481]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.31-17.17.56:120][481]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.31-17.17.56:139][481]LogAudioMixer: Display: Using Audio Hardware Device Casque (WH-CH710N)
+[2023.03.31-17.17.56:139][481]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.31-17.17.56:139][481]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.31-17.17.56:139][481]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.31-17.17.56:140][481]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.03.31-17.17.56:140][481]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.03.31-17.17.56:143][481]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.03.31-17.17.56:144][481]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.03.31-17.17.56:144][481]LogInit: FAudioDevice initialized.
+[2023.03.31-17.17.56:144][481]LogAudio: Display: Audio Device (ID: 19) registered with world 'SecondRoom'.
+[2023.03.31-17.17.56:146][481]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.31-17.17.56:148][481]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SecondRoom.SecondRoom up for play (max tick rate 60) at 2023.03.31-19.17.56
+[2023.03.31-17.17.56:148][481]LogWorld: Bringing up level for play took: 0.002143
+[2023.03.31-17.17.56:151][481]LogOnline: OSS: Created online subsystem instance for: :Context_49
+[2023.03.31-17.17.56:153][481]PIE: Server logged in
+[2023.03.31-17.17.56:153][481]PIE: Play in editor total start time 0,09 seconds.
+[2023.03.31-17.17.59:595][645]LogBlueprintUserMessages: [SecondRoom_C_4] Le premier est bon
+[2023.03.31-17.18.02:171][782]LogBlueprintUserMessages: [SecondRoom_C_4] Poc valide
+[2023.03.31-17.18.02:173][782]LogBlueprintUserMessages: [SecondRoom_C_4] pas le deuxième
+[2023.03.31-17.18.02:188][783]LogCharacterMovement: BP_FirstPersonCharacter_SecondRoom_C_0 is stuck and failed to move! Velocity: X=599.44 Y=-25.98 Z=0.00 Location: X=6194.53 Y=-1475.19 Z=-72.50 Normal: X=-0.00 Y=-0.00 Z=-1.00 PenetrationDepth:665.192 Actor:BP_Burger_C_1 Component:StaticMeshComponent0 BoneName:None (0 other events since notify)
+[2023.03.31-17.18.04:687][920]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.03.31-17.18.04:687][920]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.03.31-17.18.04:687][920]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.03.31-17.18.05:663][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-17.18.05:663][975]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SecondRoom
+[2023.03.31-17.18.05:663][975]LogWorld: UWorld::CleanupWorld for SecondRoom, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-17.18.05:664][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-17.18.05:683][975]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.31-17.18.05:695][975]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-17.18.05:735][975]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.31-17.18.05:736][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.03.31-17.18.05:739][975]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.03.31-17.18.05:750][975]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-17.18.05:754][975]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.03.31-17.18.05:832][976]LogPlayLevel: Display: Destroying online subsystem :Context_49
+[2023.03.31-17.18.11:604][314]BlueprintLog: New page: Compile SecondRoom
+[2023.03.31-17.18.11:676][314]LogUObjectHash: Compacting FUObjectHashTables data took   3.04ms
+[2023.03.31-17.18.13:139][397]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Food_Asset_Pack/Actors/BP_Burger.BP_Burger
+[2023.03.31-17.18.13:139][397]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.31-17.18.22:210][898]BlueprintLog: New page: Compile BP_Burger
+[2023.03.31-17.18.22:301][898]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2023.03.31-17.18.22:973][934]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.31-17.18.23:057][934]LogSavePackage: Moving output files for package: /Game/Food_Asset_Pack/Actors/BP_Burger
+[2023.03.31-17.18.23:058][934]LogSavePackage: Moving '../../../../../../Users/mijat/Documents/projets-specialises-2023-Oxsw1ng/EscapeTheMansion/Saved/BP_Burger82D0AEEE41BEFB3A66D4629900E8BA8B.tmp' to '../../../../../../Users/mijat/Documents/projets-specialises-2023-Oxsw1ng/EscapeTheMansion/Content/Food_Asset_Pack/Actors/BP_Burger.uasset'
+[2023.03.31-17.18.23:070][934]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 1.89 sec)
+[2023.03.31-17.18.23:077][934]AssetCheck: New page: Asset Save: BP_Burger
+[2023.03.31-17.18.23:077][934]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/Food_Asset_Pack/Actors/BP_Burger.BP_Burger
+[2023.03.31-17.18.24:023][990]LogSlate: Window 'BP_Burger' being destroyed
+[2023.03.31-17.18.24:031][990]LogSlate: Window 'BP_Burger' being destroyed
+[2023.03.31-17.18.24:039][990]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-17.18.24:039][990]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-17.18.25:294][ 60]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.03.31-17.18.25:306][ 60]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.03.31-17.18.25:306][ 60]PIE: New page: PIE session: SecondRoom (31 mars 2023 à 21:18:25)
+[2023.03.31-17.18.25:306][ 60]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_SecondRoom
+[2023.03.31-17.18.25:310][ 60]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003633s)
+[2023.03.31-17.18.25:310][ 60]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/SecondRoom.SecondRoom to /Game/Maps/UEDPIE_0_SecondRoom.SecondRoom (0.003668s)
+[2023.03.31-17.18.25:310][ 60]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.03.31-17.18.25:310][ 60]LogAIModule: Creating AISystem for world SecondRoom
+[2023.03.31-17.18.25:311][ 60]LogPlayLevel: PIE: World Init took: (0.000930s)
+[2023.03.31-17.18.25:357][ 60]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2023.03.31-17.18.25:360][ 60]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.03.31-17.18.25:360][ 60]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.03.31-17.18.25:360][ 60]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.03.31-17.18.25:360][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.03.31-17.18.25:360][ 60]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.03.31-17.18.25:360][ 60]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.03.31-17.18.25:360][ 60]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.03.31-17.18.25:360][ 60]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.03.31-17.18.25:360][ 60]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.03.31-17.18.25:360][ 60]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.03.31-17.18.25:361][ 60]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.03.31-17.18.25:361][ 60]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.03.31-17.18.25:363][ 60]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.03.31-17.18.25:384][ 60]LogAudioMixer: Display: Using Audio Hardware Device Casque (WH-CH710N)
+[2023.03.31-17.18.25:385][ 60]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.03.31-17.18.25:385][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.03.31-17.18.25:385][ 60]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.03.31-17.18.25:385][ 60]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.03.31-17.18.25:385][ 60]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.03.31-17.18.25:388][ 60]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.03.31-17.18.25:388][ 60]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.03.31-17.18.25:388][ 60]LogInit: FAudioDevice initialized.
+[2023.03.31-17.18.25:388][ 60]LogAudio: Display: Audio Device (ID: 20) registered with world 'SecondRoom'.
+[2023.03.31-17.18.25:391][ 60]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.03.31-17.18.25:393][ 60]LogWorld: Bringing World /Game/Maps/UEDPIE_0_SecondRoom.SecondRoom up for play (max tick rate 60) at 2023.03.31-19.18.25
+[2023.03.31-17.18.25:394][ 60]LogWorld: Bringing up level for play took: 0.002379
+[2023.03.31-17.18.25:396][ 60]LogOnline: OSS: Created online subsystem instance for: :Context_51
+[2023.03.31-17.18.25:398][ 60]PIE: Server logged in
+[2023.03.31-17.18.25:398][ 60]PIE: Play in editor total start time 0,095 seconds.
+[2023.03.31-17.18.28:780][221]LogBlueprintUserMessages: [SecondRoom_C_5] Le premier est bon
+[2023.03.31-17.18.32:291][407]LogBlueprintUserMessages: [SecondRoom_C_5] Poc valide
+[2023.03.31-17.18.35:124][556]LogBlueprintUserMessages: [SecondRoom_C_5] pas le deuxième
+[2023.03.31-17.18.40:255][826]LogBlueprintUserMessages: [SecondRoom_C_5] pas le deuxième
+[2023.03.31-17.18.42:799][959]LogBlueprintUserMessages: [SecondRoom_C_5] pas le deuxième
+[2023.03.31-17.18.44:060][ 25]LogBlueprintUserMessages: [SecondRoom_C_5] pas le deuxième
+[2023.03.31-17.18.45:240][ 84]LogBlueprintUserMessages: [SecondRoom_C_5] pas le deuxième
+[2023.03.31-17.18.46:337][141]LogBlueprintUserMessages: [SecondRoom_C_5] pas le deuxième
+[2023.03.31-17.18.46:494][149]LogBlueprintUserMessages: [SecondRoom_C_5] pas le deuxième
+[2023.03.31-17.18.53:953][538]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.03.31-17.18.53:954][538]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.03.31-17.18.53:954][538]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.03.31-17.18.54:859][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-17.18.54:859][584]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_SecondRoom
+[2023.03.31-17.18.54:860][584]LogWorld: UWorld::CleanupWorld for SecondRoom, bSessionEnded=true, bCleanupResources=true
+[2023.03.31-17.18.54:860][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-17.18.54:886][584]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.03.31-17.18.54:898][584]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.03.31-17.18.54:941][584]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.03.31-17.18.54:941][584]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.03.31-17.18.54:947][584]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.03.31-17.18.54:953][584]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.03.31-17.18.54:957][584]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.03.31-17.18.55:059][585]LogPlayLevel: Display: Destroying online subsystem :Context_51
+[2023.03.31-17.19.18:251][682]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.03.31-17.19.18:350][682]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2023.03.31-17.19.18:370][682]LogSavePackage: Moving output files for package: /Game/Maps/SecondRoom
+[2023.03.31-17.19.18:370][682]LogSavePackage: Moving '../../../../../../Users/mijat/Documents/projets-specialises-2023-Oxsw1ng/EscapeTheMansion/Saved/SecondRoomA23D7CA54D87D01C0868A1A98EAA1F20.tmp' to '../../../../../../Users/mijat/Documents/projets-specialises-2023-Oxsw1ng/EscapeTheMansion/Content/Maps/SecondRoom.umap'
+[2023.03.31-17.19.18:391][682]LogFileHelpers: Saving map 'SecondRoom' took 0.089
+[2023.03.31-17.19.18:399][682]LogFileHelpers: InternalPromptForCheckoutAndSave took 147 ms (total: 2.04 sec)
+[2023.03.31-17.19.18:406][682]AssetCheck: New page: Asset Save: SecondRoom
+[2023.03.31-17.19.18:406][682]LogContentValidation: Display: Validating /Script/Engine.World /Game/Maps/SecondRoom.SecondRoom
